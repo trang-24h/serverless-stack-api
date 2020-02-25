@@ -5,7 +5,6 @@
   "main": "handler.js",
   "scripts": {
     "test": "serverless-bundle test"
-    // "test": "jest"
   },
   "author": "",
   "license": "MIT",
